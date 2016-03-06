@@ -1,6 +1,6 @@
-# datathon
-source code from our datathon 2015 presentation
-
+# Datathon 2015
+Source code from our Datathon 2015 presentation
+Datathon was hosted by [ThinkBiz](http://thinkbiz.gr/en) and [Skroutz.gr](http://www.skroutz.gr/)
 Team members
 ============
 * [Barmpakos Dimitrios](https://www.linkedin.com/in/dimitriosbarmpakos)
